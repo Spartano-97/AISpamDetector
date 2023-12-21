@@ -31,7 +31,7 @@ Work in progress...
 ## How To:
 1. First we need to download the project using git!
 
-`git clone project_repository_url`
+`git clone https://github.com/Spartano-97/AISpamDetector`
 
 2. All the libraries necessary for correct operation can be downloaded using the requirements.txt file present in this project. Let's do it!
 
