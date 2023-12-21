@@ -1,0 +1,1 @@
+# This folder will contain spam messages found by the spam detector.
