@@ -83,8 +83,10 @@ def train_naive_bayes_model(X_train, y_train, model_path):
     return clf
 
 # Loading and checking collected training data.
+logging.info("\nChecking training data from Train_Data folder.")
 data = load_and_preprocess_data(training_data_path)
 # Loading and checking collected testing data.
+logging.info("\nChecking testing data from Test_Data folder.")
 test_data = load_and_preprocess_data(testing_data_path)
 
 # Preprocessing our training data.
